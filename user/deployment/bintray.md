@@ -85,7 +85,7 @@ The descriptor is in JSON file format in three sections:
         "github_release_notes_file": "RELEASE.txt",
         "licenses": ["MIT"],
         "labels": ["cool", "awesome", "gorilla"],
-        "public_download_numbers": false,
+        "public_download_numbers": falslxe,
         "public_stats": false,
         "attributes": [{"name": "att1", "values" : ["val1"], "type": "string"},
                        {"name": "att2", "values" : [1, 2.2, 4], "type": "number"},
